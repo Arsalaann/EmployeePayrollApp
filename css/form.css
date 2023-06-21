@@ -1,0 +1,41 @@
+#husbandimg{
+    width: fit-content;
+    height: 30px;
+}
+#searchbar{
+    border-radius: 20px;
+}
+#deleteimg{
+    width: fit-content;
+    height: 20px;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  form {
+    width: 300px;
+    margin: 0 auto;
+  }
+  
+  label {
+    display: block;
+    margin-top: 10px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 5px;
+    margin-top: 5px;
+  }
+  
+  button {
+    margin-top: 10px;
+    padding: 10px 20px;
+  }
+  
