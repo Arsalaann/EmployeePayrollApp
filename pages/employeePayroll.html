@@ -160,6 +160,14 @@
             </div>
     </form>
   </div>
+  <script>
+    let rangeVar = document.getElementById("salary");          
+    document.addEventListener("change", function(){
+         let rangeValue = document.getElementById("salary");
+         document.getElementById("salaryOutput").value = rangeValue.value;
+    });
+    
+   </script>
 </body>
 
 </html>
