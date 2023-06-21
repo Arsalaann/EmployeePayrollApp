@@ -5,3 +5,11 @@
 #searchbar{
     border-radius: 20px;
 }
+#deleteimg{
+    width: fit-content;
+    height: 20px;
+}
+#editimg{
+    width: fit-content;
+    height: 20px;
+}
