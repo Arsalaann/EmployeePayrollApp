@@ -1,0 +1,39 @@
+{
+    "employee": [{
+            "_name": "Abhishek kumar",
+            "_gender": "Male",
+            "_department": [
+                "HR"
+            ],
+            "_salary": "30000",
+            "_startDate": "1 Jan 2020",
+            "_notes": "",
+            "id": 1,
+            "_profileUrl": "../assets/profile-images/Ellipse -5.png"
+        },
+        {
+            "_name": "Rahul Singh",
+            "_gender": "Male",
+            "_department": [
+                "HR"
+            ],
+            "_salary": "30000",
+            "_startDate": "1 Jan 2020",
+            "_notes": "",
+            "id": 2,
+            "_profileUrl": "../assets/profile-images/Ellipse -3.png"
+        },
+        {
+            "_name": "Sonali Gupta",
+            "_gender": "Female",
+            "_department": [
+                "HR"
+            ],
+            "_salary": "30000",
+            "_startDate": "1 Jan 2020",
+            "_notes": "",
+            "id": 3,
+            "_profileUrl": "../assets/profile-images/Ellipse -4.png"
+        }
+    ]
+}
