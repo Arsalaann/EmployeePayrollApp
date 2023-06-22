@@ -145,12 +145,6 @@ select{
     margin-top: 80px;
     
 }
-.submit-reset{
-    display: flex;
-    margin-bottom: 10px;
-    justify-content: space-between;
-    margin-top: 80px;
-}
 
 .button {
     font-size: 20px;
@@ -174,12 +168,10 @@ select{
 }
 
 .cancelButton {
-    margin-top: 80px;
     text-decoration: none;
     text-align: center;
     padding: 20px 40px;
-    margin-right: 120px;   
-    height: 65px; 
+    margin-right: 120px;    
 }
 
 .resetButton{
