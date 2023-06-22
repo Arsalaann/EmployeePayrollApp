@@ -1,0 +1,124 @@
+{
+  "employee": [
+    {
+      "name": "mohit kumar new",
+      "gender": "male",
+      "departMent": [
+        "HR"
+      ],
+      "salary": "30000",
+      "startDate": "1 Jan 2020",
+      "notes": "",
+      "id": 1604589551457,
+      "profileUrl": "../assets/profile-images/Ellipse 1.png"
+    },
+    {
+      "name": "mohit kumar test",
+      "gender": "male",
+      "departMent": [
+        "HR"
+      ],
+      "salary": "30000",
+      "startDate": "1 Jan 2020",
+      "notes": "",
+      "id": 1604589594363,
+      "profileUrl": "../assets/profile-images/Ellipse 1.png"
+    },
+    {
+      "name": "mohit",
+      "gender": "male",
+      "departMent": [
+        "HR"
+      ],
+      "salary": "30000",
+      "startDate": "1 Jan 2020",
+      "notes": "",
+      "id": 1604589699566,
+      "profileUrl": "../assets/profile-images/Ellipse -3.png"
+    },
+    {
+      "name": "test",
+      "gender": "male",
+      "departMent": [
+        "HR"
+      ],
+      "salary": "30000",
+      "startDate": "1 Jan 2020",
+      "notes": "",
+      "id": 1604589731061,
+      "profileUrl": "../assets/profile-images/Ellipse -3.png"
+    },
+    {
+      "_name": "Rani Singh",
+      "_gender": "female",
+      "_department": [
+        "HR"
+      ],
+      "_salary": "30000",
+      "_startDate": "1 Jan 2020",
+      "_notes": "",
+      "_profileUrl": "../assets/profile-images/Ellipse -4.png",
+      "id": 1604589731062
+    },
+    {
+      "_name": "Rani Singh",
+      "_gender": "female",
+      "_department": [
+        "HR"
+      ],
+      "_salary": "30000",
+      "_startDate": "1 Jan 2020",
+      "_notes": "",
+      "_profileUrl": "../assets/profile-images/Ellipse -4.png",
+      "id": 1604589731063
+    },
+    {
+      "_name": "Rani Singh",
+      "_gender": "female",
+      "_department": [
+        "HR"
+      ],
+      "_salary": "30000",
+      "_startDate": "1 Jan 2020",
+      "_notes": "",
+      "_profileUrl": "../assets/profile-images/Ellipse -4.png",
+      "id": 1604589731064
+    },
+    {
+      "_name": "Rani Singh",
+      "_gender": "female",
+      "_department": [
+        "HR"
+      ],
+      "_salary": "30000",
+      "_startDate": "1 Jan 2020",
+      "_notes": "",
+      "_profileUrl": "../assets/profile-images/Ellipse -4.png",
+      "id": 1604589731065
+    },
+    {
+      "_name": "Rani Singh",
+      "_gender": "female",
+      "_department": [
+        "HR"
+      ],
+      "_salary": "30000",
+      "_startDate": "1 Jan 2020",
+      "_notes": "",
+      "_profileUrl": "../assets/profile-images/Ellipse -4.png",
+      "id": 1604589731066
+    },
+    {
+      "_name": "Rani Singh",
+      "_gender": "female",
+      "_department": [
+        "HR"
+      ],
+      "_salary": "30000",
+      "_startDate": "1 Jan 2020",
+      "_notes": "",
+      "_profileUrl": "../assets/profile-images/Ellipse -4.png",
+      "id": 1604589731067
+    }
+  ]
+}
