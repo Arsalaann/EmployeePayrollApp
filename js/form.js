@@ -53,6 +53,7 @@ const saveForm = (event) => {
 
 function createAndUpdateStorage() {
     let employeeList = JSON.parse(localStorage.getItem("EmployeeList"));
+    console.log(employeeList)
     if (employeeList) {
         let employee = employeeList.find(emp => emp._id == employeePayrollObj.id);
         if (!employee) employeeList.push(saveData());
@@ -63,7 +64,7 @@ function createAndUpdateStorage() {
     } else {
         employeeList = [saveData()];
     }
-
+    alert(JSON.stringify(employeeList));
     localStorage.setItem("EmployeeList", JSON.stringify(employeeList));
 };
 

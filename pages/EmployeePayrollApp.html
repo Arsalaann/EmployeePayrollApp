@@ -28,7 +28,7 @@
         </div>
     </header>
     <div class="form-content">
-        <form class="form" name="emp" action="#" onreset="resetForm()" onsubmit="saveForm(event)">
+        <form class="form" name="emp" action="/index.html" onreset="resetForm()" onsubmit="saveForm(event)">
             <div class="form-head">Employee Payroll Form</div>
             <div class="row-content">
                 <label class="label text" for="name">Name</label>
@@ -79,19 +79,19 @@
                         <input class = "checkbox" type = "checkbox" id = "sales" name = "department" value = "Sales">Sales
                     </label>
                     <label class="text" for="finance">
-                        <input class = "checkbox" type = "checkbox" id = "finance" name = "department" value = "Finance">Finance
+                        <input class = "checkbox" type = "checkbox" id = "finance" name = "department" value = "UI/UX">FrontEnd
                     </label>
                     <label class="text" for="engineer">
-                        <input class = "checkbox" type = "checkbox" id = "engineer" name = "department" value = "Engineer">Engineer
+                        <input class = "checkbox" type = "checkbox" id = "engineer" name = "department" value = "MERN">MERN
                     </label>
                     <label class="text" for="others">
-                        <input class = "checkbox" type = "checkbox" id = "others" name = "department" value = "Others">Others
+                        <input class = "checkbox" type = "checkbox" id = "others" name = "department" value = "FullStack Dev">FullStack
                     </label>
                 </div>
             </div>
             <div class="row-content">
                 <label class="label text" for="salary">Salary</label>
-                <input class="input" type="range" name="salary" id="salary" min="60000" max="80000" step="100" value="70000">
+                <input class="input" type="range" name="salary" id="salary" min="60000" max="800000" step="100" value="70000">
                 <output class="salary-output text" for="salary">70000</output>
             </div>
             <div class="row-content">
@@ -145,6 +145,9 @@
                             <option value = "12">December</option>
                         </select>
                     <select id="year" name="Year">
+                        <option value = "2023">2023</option>
+                        <option value = "2022">2022</option>
+                        <option value = "2021">2021</option>
                             <option value = "2020">2020</option>
                             <option value = "2019">2019</option>
                             <option value = "2018">2018</option>
